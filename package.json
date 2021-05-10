@@ -33,7 +33,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://github.com/tatsuya1211/EC-APP.git",
+  "homepage": "https://github.com/tatsuya1211/ec-app.git",
   "eslintConfig": {
     "extends": [
       "react-app",
