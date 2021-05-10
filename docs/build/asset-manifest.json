@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tatsuya1211/EC-APP.git/static/css/main.db3928c9.chunk.css",
+    "main.js": "/tatsuya1211/EC-APP.git/static/js/main.ab1a1696.chunk.js",
+    "main.js.map": "/tatsuya1211/EC-APP.git/static/js/main.ab1a1696.chunk.js.map",
+    "runtime-main.js": "/tatsuya1211/EC-APP.git/static/js/runtime-main.b8113c7d.js",
+    "runtime-main.js.map": "/tatsuya1211/EC-APP.git/static/js/runtime-main.b8113c7d.js.map",
+    "static/css/2.25ae807d.chunk.css": "/tatsuya1211/EC-APP.git/static/css/2.25ae807d.chunk.css",
+    "static/js/2.d4c24bdf.chunk.js": "/tatsuya1211/EC-APP.git/static/js/2.d4c24bdf.chunk.js",
+    "static/js/2.d4c24bdf.chunk.js.map": "/tatsuya1211/EC-APP.git/static/js/2.d4c24bdf.chunk.js.map",
+    "static/js/3.b8f3b686.chunk.js": "/tatsuya1211/EC-APP.git/static/js/3.b8f3b686.chunk.js",
+    "static/js/3.b8f3b686.chunk.js.map": "/tatsuya1211/EC-APP.git/static/js/3.b8f3b686.chunk.js.map",
+    "index.html": "/tatsuya1211/EC-APP.git/index.html",
+    "static/css/2.25ae807d.chunk.css.map": "/tatsuya1211/EC-APP.git/static/css/2.25ae807d.chunk.css.map",
+    "static/css/main.db3928c9.chunk.css.map": "/tatsuya1211/EC-APP.git/static/css/main.db3928c9.chunk.css.map",
+    "static/js/2.d4c24bdf.chunk.js.LICENSE.txt": "/tatsuya1211/EC-APP.git/static/js/2.d4c24bdf.chunk.js.LICENSE.txt",
+    "static/media/logo2.df6e5128.png": "/tatsuya1211/EC-APP.git/static/media/logo2.df6e5128.png",
+    "static/media/no_image.1a2d0029.png": "/tatsuya1211/EC-APP.git/static/media/no_image.1a2d0029.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8113c7d.js",
+    "static/css/2.25ae807d.chunk.css",
+    "static/js/2.d4c24bdf.chunk.js",
+    "static/css/main.db3928c9.chunk.css",
+    "static/js/main.ab1a1696.chunk.js"
+  ]
+}
